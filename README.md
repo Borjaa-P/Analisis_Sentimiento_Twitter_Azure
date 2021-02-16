@@ -13,10 +13,14 @@ Ya con todos lo tweets clasificados, realizaremos una serie de modificaciones pa
 
 Una vez finalizado todos los proceso, obtendremos como resultado dos DataFrame:
 
-1-	En el encontraremos toda la información de los tweets que hemos decido descargarnos y su clasificación.
+1. En el encontraremos toda la información de los tweets que hemos decido descargarnos y su clasificación.
 
-2-	Obtendremos la información de los personajes que hemos decidido descargarnos y su clasificación.
+2. Obtendremos la información de los personajes que hemos decidido descargarnos y su clasificación.
 
 Para concluir este proceso, he decido volcar toda esta información en una herramienta de visualización, en este caso concreto **Power BI**. 
 Aquí adjunto imágenes de algunos de los Dashboard creados para analizar en profundidad la información obtenida.
+
+
+-txtxtxtxtxtxtx
  
+![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/image.png?raw=true)
