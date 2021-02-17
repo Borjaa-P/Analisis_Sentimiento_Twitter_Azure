@@ -9,11 +9,11 @@ Ya que este servicio en su modalidad gratuita tiene bastantes restricciones, una
 
 Ya con todos lo tweets clasificados, realizaremos una serie de modificaciones para obtener un DataFrame centrado en los personajes del programa. Este proceso está reflejado en el Script de ‘Concursantes’.
 
-Una vez finalizado todos los procesos, obtendremos como resultado dos DataFrame:
+Una vez finalizado todos los procesos, obtenems como resultado dos DataFrame:
 
 1. En el encontramos toda la información relacionada con los tweets.
 
-2. Encontramos toda la información clasificada por concursante.
+2. En el encontramos toda la información clasificada por concursante.
 
 Para concluir este proceso, vamos a volcar toda esta información en una herramienta de visualización, en este caso concreto yo he decido utilizar  **Power BI**. 
 Aquí adjunto imágenes de alguno de los Dashboard creados para analizar en profundidad la información obtenida.
