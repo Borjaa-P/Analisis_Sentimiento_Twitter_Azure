@@ -21,4 +21,10 @@ Aquí adjunto imágenes de alguno de los Dashboard creados para analizar en prof
 
 -Informes PowerBI
  
-![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/image.png?raw=true)
+![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/Imagenes/Dashboard-IT4.PNG?raw=true)
+
+![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/Imagenes/Dashboard-IT5.PNG?raw=true)
+
+![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/Imagenes/Comparativa.PNG?raw=true)
+
+![Cargando imagen ](https://github.com/Borjaa-P/Analisis_Sentimiento_Twitter_Azure/blob/main/Imagenes/Dashboard_Tweet.PNG?raw=true)
